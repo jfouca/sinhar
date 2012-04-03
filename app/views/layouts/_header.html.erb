@@ -7,6 +7,7 @@
           <li><%= link_to "Home", root_path %></li>
           <li><%= link_to "Help",    '#' %></li>
           <li><%= link_to "Sign in", new_user_session_path %></li>
+          <li><%= link_to "Logout", destroy_user_session_path, :method=>:delete %></li>
         </ul>
       </nav>
     </div>
