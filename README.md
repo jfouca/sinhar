@@ -11,5 +11,5 @@ $ git pull origin
 After pulling repository from github, please run the commands below :
 
 $ bundle install --without production
-$ rake db:migrate
+$ rake db:schema:load
 $ rails s
