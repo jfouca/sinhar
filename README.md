@@ -18,4 +18,4 @@ $> bundle install --without production
 
 $> rake db:schema:load
 
-$> rails s
+$> rails s thin

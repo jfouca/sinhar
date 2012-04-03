@@ -3,6 +3,7 @@ source 'https://rubygems.org'
 gem 'rails', '3.2.2'
 gem 'bootstrap-sass', '2.0.0'
 gem 'devise'
+gem 'thin'
 gem 'activeadmin'
 gem "meta_search",    '>= 1.1.0.pre'
 
