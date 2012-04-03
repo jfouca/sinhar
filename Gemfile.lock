@@ -187,6 +187,7 @@ DEPENDENCIES
   bootstrap-sass (= 2.0.0)
   capybara (= 1.1.2)
   coffee-rails (= 3.2.2)
+  devise
   jquery-rails (= 2.0.0)
   libnotify (= 0.5.9)
   meta_search (>= 1.1.0.pre)
